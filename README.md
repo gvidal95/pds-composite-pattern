@@ -10,8 +10,6 @@
 | **Actividad** | 02. Patrones Estructurales |
 | **Patrón** | Composite |
 | **Escenario** | 01. Estructura jerárquica de un presupuesto institucional |
-| **Estudiante** | _(escribir nombre)_ |
-| **Fecha** | _(escribir fecha)_ |
 
 Aplicación web en **React + TypeScript** que implementa el diagrama de clases del Escenario 01 y permite explicar el patrón Composite de forma interactiva: se puede explorar el árbol presupuestario, ver cómo se ejecuta la recursión paso a paso y hacer crecer la estructura sin tocar el código del cliente.
 
